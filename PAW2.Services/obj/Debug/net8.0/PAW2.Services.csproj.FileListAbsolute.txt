@@ -1,0 +1,17 @@
+D:\Universidad\2025\2do Cuatrimestre\Miercoles - Progra Avanzada Web\Proyecto\Codigo\PAW2\PAW2.Services\bin\Debug\net8.0\PAW2.Services.deps.json
+D:\Universidad\2025\2do Cuatrimestre\Miercoles - Progra Avanzada Web\Proyecto\Codigo\PAW2\PAW2.Services\bin\Debug\net8.0\PAW2.Services.dll
+D:\Universidad\2025\2do Cuatrimestre\Miercoles - Progra Avanzada Web\Proyecto\Codigo\PAW2\PAW2.Services\bin\Debug\net8.0\PAW2.Services.pdb
+D:\Universidad\2025\2do Cuatrimestre\Miercoles - Progra Avanzada Web\Proyecto\Codigo\PAW2\PAW2.Services\bin\Debug\net8.0\PAW2.Architecture.dll
+D:\Universidad\2025\2do Cuatrimestre\Miercoles - Progra Avanzada Web\Proyecto\Codigo\PAW2\PAW2.Services\bin\Debug\net8.0\PAW2.Models.dll
+D:\Universidad\2025\2do Cuatrimestre\Miercoles - Progra Avanzada Web\Proyecto\Codigo\PAW2\PAW2.Services\bin\Debug\net8.0\PAW2.Architecture.pdb
+D:\Universidad\2025\2do Cuatrimestre\Miercoles - Progra Avanzada Web\Proyecto\Codigo\PAW2\PAW2.Services\bin\Debug\net8.0\PAW2.Models.pdb
+D:\Universidad\2025\2do Cuatrimestre\Miercoles - Progra Avanzada Web\Proyecto\Codigo\PAW2\PAW2.Services\obj\Debug\net8.0\PAW2.Services.csproj.AssemblyReference.cache
+D:\Universidad\2025\2do Cuatrimestre\Miercoles - Progra Avanzada Web\Proyecto\Codigo\PAW2\PAW2.Services\obj\Debug\net8.0\PAW2.Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\Universidad\2025\2do Cuatrimestre\Miercoles - Progra Avanzada Web\Proyecto\Codigo\PAW2\PAW2.Services\obj\Debug\net8.0\PAW2.Services.AssemblyInfoInputs.cache
+D:\Universidad\2025\2do Cuatrimestre\Miercoles - Progra Avanzada Web\Proyecto\Codigo\PAW2\PAW2.Services\obj\Debug\net8.0\PAW2.Services.AssemblyInfo.cs
+D:\Universidad\2025\2do Cuatrimestre\Miercoles - Progra Avanzada Web\Proyecto\Codigo\PAW2\PAW2.Services\obj\Debug\net8.0\PAW2.Services.csproj.CoreCompileInputs.cache
+D:\Universidad\2025\2do Cuatrimestre\Miercoles - Progra Avanzada Web\Proyecto\Codigo\PAW2\PAW2.Services\obj\Debug\net8.0\PAW2.Ser.91AB5075.Up2Date
+D:\Universidad\2025\2do Cuatrimestre\Miercoles - Progra Avanzada Web\Proyecto\Codigo\PAW2\PAW2.Services\obj\Debug\net8.0\PAW2.Services.dll
+D:\Universidad\2025\2do Cuatrimestre\Miercoles - Progra Avanzada Web\Proyecto\Codigo\PAW2\PAW2.Services\obj\Debug\net8.0\refint\PAW2.Services.dll
+D:\Universidad\2025\2do Cuatrimestre\Miercoles - Progra Avanzada Web\Proyecto\Codigo\PAW2\PAW2.Services\obj\Debug\net8.0\PAW2.Services.pdb
+D:\Universidad\2025\2do Cuatrimestre\Miercoles - Progra Avanzada Web\Proyecto\Codigo\PAW2\PAW2.Services\obj\Debug\net8.0\ref\PAW2.Services.dll

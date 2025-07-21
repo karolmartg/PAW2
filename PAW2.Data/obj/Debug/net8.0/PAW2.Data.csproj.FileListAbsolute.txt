@@ -1,0 +1,17 @@
+D:\Universidad\2025\2do Cuatrimestre\Miercoles - Progra Avanzada Web\Proyecto\Codigo\PAW2\PAW2.Data\bin\Debug\net8.0\PAW2.Data.deps.json
+D:\Universidad\2025\2do Cuatrimestre\Miercoles - Progra Avanzada Web\Proyecto\Codigo\PAW2\PAW2.Data\bin\Debug\net8.0\PAW2.Data.runtimeconfig.json
+D:\Universidad\2025\2do Cuatrimestre\Miercoles - Progra Avanzada Web\Proyecto\Codigo\PAW2\PAW2.Data\bin\Debug\net8.0\PAW2.Data.dll
+D:\Universidad\2025\2do Cuatrimestre\Miercoles - Progra Avanzada Web\Proyecto\Codigo\PAW2\PAW2.Data\bin\Debug\net8.0\PAW2.Data.pdb
+D:\Universidad\2025\2do Cuatrimestre\Miercoles - Progra Avanzada Web\Proyecto\Codigo\PAW2\PAW2.Data\bin\Debug\net8.0\PAW2.Models.dll
+D:\Universidad\2025\2do Cuatrimestre\Miercoles - Progra Avanzada Web\Proyecto\Codigo\PAW2\PAW2.Data\bin\Debug\net8.0\PAW2.Models.pdb
+D:\Universidad\2025\2do Cuatrimestre\Miercoles - Progra Avanzada Web\Proyecto\Codigo\PAW2\PAW2.Data\obj\Debug\net8.0\PAW2.Data.csproj.AssemblyReference.cache
+D:\Universidad\2025\2do Cuatrimestre\Miercoles - Progra Avanzada Web\Proyecto\Codigo\PAW2\PAW2.Data\obj\Debug\net8.0\PAW2.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\Universidad\2025\2do Cuatrimestre\Miercoles - Progra Avanzada Web\Proyecto\Codigo\PAW2\PAW2.Data\obj\Debug\net8.0\PAW2.Data.AssemblyInfoInputs.cache
+D:\Universidad\2025\2do Cuatrimestre\Miercoles - Progra Avanzada Web\Proyecto\Codigo\PAW2\PAW2.Data\obj\Debug\net8.0\PAW2.Data.AssemblyInfo.cs
+D:\Universidad\2025\2do Cuatrimestre\Miercoles - Progra Avanzada Web\Proyecto\Codigo\PAW2\PAW2.Data\obj\Debug\net8.0\PAW2.Data.csproj.CoreCompileInputs.cache
+D:\Universidad\2025\2do Cuatrimestre\Miercoles - Progra Avanzada Web\Proyecto\Codigo\PAW2\PAW2.Data\obj\Debug\net8.0\PAW2.Data.csproj.Up2Date
+D:\Universidad\2025\2do Cuatrimestre\Miercoles - Progra Avanzada Web\Proyecto\Codigo\PAW2\PAW2.Data\obj\Debug\net8.0\PAW2.Data.dll
+D:\Universidad\2025\2do Cuatrimestre\Miercoles - Progra Avanzada Web\Proyecto\Codigo\PAW2\PAW2.Data\obj\Debug\net8.0\refint\PAW2.Data.dll
+D:\Universidad\2025\2do Cuatrimestre\Miercoles - Progra Avanzada Web\Proyecto\Codigo\PAW2\PAW2.Data\obj\Debug\net8.0\PAW2.Data.pdb
+D:\Universidad\2025\2do Cuatrimestre\Miercoles - Progra Avanzada Web\Proyecto\Codigo\PAW2\PAW2.Data\obj\Debug\net8.0\PAW2.Data.genruntimeconfig.cache
+D:\Universidad\2025\2do Cuatrimestre\Miercoles - Progra Avanzada Web\Proyecto\Codigo\PAW2\PAW2.Data\obj\Debug\net8.0\ref\PAW2.Data.dll

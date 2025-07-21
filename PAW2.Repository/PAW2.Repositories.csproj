@@ -1,0 +1,15 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\PAW2.Architecture\PAW2.Architecture.csproj" />
+    <ProjectReference Include="..\PAW2.Data\PAW2.Data.csproj" />
+    <ProjectReference Include="..\PAW2.Models\PAW2.Models.csproj" />
+  </ItemGroup>
+
+</Project>

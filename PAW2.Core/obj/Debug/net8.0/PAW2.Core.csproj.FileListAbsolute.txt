@@ -1,0 +1,15 @@
+D:\Universidad\2025\2do Cuatrimestre\Miercoles - Progra Avanzada Web\Proyecto\Codigo\PAW2\PAW2.Core\bin\Debug\net8.0\PAW2.Core.deps.json
+D:\Universidad\2025\2do Cuatrimestre\Miercoles - Progra Avanzada Web\Proyecto\Codigo\PAW2\PAW2.Core\bin\Debug\net8.0\PAW2.Core.dll
+D:\Universidad\2025\2do Cuatrimestre\Miercoles - Progra Avanzada Web\Proyecto\Codigo\PAW2\PAW2.Core\bin\Debug\net8.0\PAW2.Core.pdb
+D:\Universidad\2025\2do Cuatrimestre\Miercoles - Progra Avanzada Web\Proyecto\Codigo\PAW2\PAW2.Core\bin\Debug\net8.0\PAW2.Models.dll
+D:\Universidad\2025\2do Cuatrimestre\Miercoles - Progra Avanzada Web\Proyecto\Codigo\PAW2\PAW2.Core\bin\Debug\net8.0\PAW2.Models.pdb
+D:\Universidad\2025\2do Cuatrimestre\Miercoles - Progra Avanzada Web\Proyecto\Codigo\PAW2\PAW2.Core\obj\Debug\net8.0\PAW2.Core.csproj.AssemblyReference.cache
+D:\Universidad\2025\2do Cuatrimestre\Miercoles - Progra Avanzada Web\Proyecto\Codigo\PAW2\PAW2.Core\obj\Debug\net8.0\PAW2.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Universidad\2025\2do Cuatrimestre\Miercoles - Progra Avanzada Web\Proyecto\Codigo\PAW2\PAW2.Core\obj\Debug\net8.0\PAW2.Core.AssemblyInfoInputs.cache
+D:\Universidad\2025\2do Cuatrimestre\Miercoles - Progra Avanzada Web\Proyecto\Codigo\PAW2\PAW2.Core\obj\Debug\net8.0\PAW2.Core.AssemblyInfo.cs
+D:\Universidad\2025\2do Cuatrimestre\Miercoles - Progra Avanzada Web\Proyecto\Codigo\PAW2\PAW2.Core\obj\Debug\net8.0\PAW2.Core.csproj.CoreCompileInputs.cache
+D:\Universidad\2025\2do Cuatrimestre\Miercoles - Progra Avanzada Web\Proyecto\Codigo\PAW2\PAW2.Core\obj\Debug\net8.0\PAW2.Core.csproj.Up2Date
+D:\Universidad\2025\2do Cuatrimestre\Miercoles - Progra Avanzada Web\Proyecto\Codigo\PAW2\PAW2.Core\obj\Debug\net8.0\PAW2.Core.dll
+D:\Universidad\2025\2do Cuatrimestre\Miercoles - Progra Avanzada Web\Proyecto\Codigo\PAW2\PAW2.Core\obj\Debug\net8.0\refint\PAW2.Core.dll
+D:\Universidad\2025\2do Cuatrimestre\Miercoles - Progra Avanzada Web\Proyecto\Codigo\PAW2\PAW2.Core\obj\Debug\net8.0\PAW2.Core.pdb
+D:\Universidad\2025\2do Cuatrimestre\Miercoles - Progra Avanzada Web\Proyecto\Codigo\PAW2\PAW2.Core\obj\Debug\net8.0\ref\PAW2.Core.dll

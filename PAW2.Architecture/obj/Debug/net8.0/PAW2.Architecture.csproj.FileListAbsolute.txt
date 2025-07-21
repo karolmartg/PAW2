@@ -1,0 +1,11 @@
+D:\Universidad\2025\2do Cuatrimestre\Miercoles - Progra Avanzada Web\Proyecto\Codigo\PAW2\PAW2.Architecture\bin\Debug\net8.0\PAW2.Architecture.deps.json
+D:\Universidad\2025\2do Cuatrimestre\Miercoles - Progra Avanzada Web\Proyecto\Codigo\PAW2\PAW2.Architecture\bin\Debug\net8.0\PAW2.Architecture.dll
+D:\Universidad\2025\2do Cuatrimestre\Miercoles - Progra Avanzada Web\Proyecto\Codigo\PAW2\PAW2.Architecture\bin\Debug\net8.0\PAW2.Architecture.pdb
+D:\Universidad\2025\2do Cuatrimestre\Miercoles - Progra Avanzada Web\Proyecto\Codigo\PAW2\PAW2.Architecture\obj\Debug\net8.0\PAW2.Architecture.GeneratedMSBuildEditorConfig.editorconfig
+D:\Universidad\2025\2do Cuatrimestre\Miercoles - Progra Avanzada Web\Proyecto\Codigo\PAW2\PAW2.Architecture\obj\Debug\net8.0\PAW2.Architecture.AssemblyInfoInputs.cache
+D:\Universidad\2025\2do Cuatrimestre\Miercoles - Progra Avanzada Web\Proyecto\Codigo\PAW2\PAW2.Architecture\obj\Debug\net8.0\PAW2.Architecture.AssemblyInfo.cs
+D:\Universidad\2025\2do Cuatrimestre\Miercoles - Progra Avanzada Web\Proyecto\Codigo\PAW2\PAW2.Architecture\obj\Debug\net8.0\PAW2.Architecture.csproj.CoreCompileInputs.cache
+D:\Universidad\2025\2do Cuatrimestre\Miercoles - Progra Avanzada Web\Proyecto\Codigo\PAW2\PAW2.Architecture\obj\Debug\net8.0\PAW2.Architecture.dll
+D:\Universidad\2025\2do Cuatrimestre\Miercoles - Progra Avanzada Web\Proyecto\Codigo\PAW2\PAW2.Architecture\obj\Debug\net8.0\refint\PAW2.Architecture.dll
+D:\Universidad\2025\2do Cuatrimestre\Miercoles - Progra Avanzada Web\Proyecto\Codigo\PAW2\PAW2.Architecture\obj\Debug\net8.0\PAW2.Architecture.pdb
+D:\Universidad\2025\2do Cuatrimestre\Miercoles - Progra Avanzada Web\Proyecto\Codigo\PAW2\PAW2.Architecture\obj\Debug\net8.0\ref\PAW2.Architecture.dll

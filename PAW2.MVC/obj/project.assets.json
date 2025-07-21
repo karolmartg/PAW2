@@ -1,0 +1,144 @@
+{
+  "version": 3,
+  "targets": {
+    "net8.0": {
+      "PAW2.Architecture/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/PAW2.Architecture.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/PAW2.Architecture.dll": {}
+        }
+      },
+      "PAW2.Models/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/PAW2.Models.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/PAW2.Models.dll": {}
+        }
+      },
+      "PAW2.Services/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "PAW2.Architecture": "1.0.0",
+          "PAW2.Models": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/PAW2.Services.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/PAW2.Services.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PAW2.Architecture/1.0.0": {
+      "type": "project",
+      "path": "../PAW2.Architecture/PAW2.Architecture.csproj",
+      "msbuildProject": "../PAW2.Architecture/PAW2.Architecture.csproj"
+    },
+    "PAW2.Models/1.0.0": {
+      "type": "project",
+      "path": "../PAW2.Models/PAW2.Models.csproj",
+      "msbuildProject": "../PAW2.Models/PAW2.Models.csproj"
+    },
+    "PAW2.Services/1.0.0": {
+      "type": "project",
+      "path": "../PAW2.Services/PAW2.Services.csproj",
+      "msbuildProject": "../PAW2.Services/PAW2.Services.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net8.0": [
+      "PAW2.Models >= 1.0.0",
+      "PAW2.Services >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Karol\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "D:\\Universidad\\2025\\2do Cuatrimestre\\Miercoles - Progra Avanzada Web\\Proyecto\\Codigo\\PAW2\\PAW2.MVC\\PAW2.MVC.csproj",
+      "projectName": "PAW2.MVC",
+      "projectPath": "D:\\Universidad\\2025\\2do Cuatrimestre\\Miercoles - Progra Avanzada Web\\Proyecto\\Codigo\\PAW2\\PAW2.MVC\\PAW2.MVC.csproj",
+      "packagesPath": "C:\\Users\\Karol\\.nuget\\packages\\",
+      "outputPath": "D:\\Universidad\\2025\\2do Cuatrimestre\\Miercoles - Progra Avanzada Web\\Proyecto\\Codigo\\PAW2\\PAW2.MVC\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\Karol\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net8.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "projectReferences": {
+            "D:\\Universidad\\2025\\2do Cuatrimestre\\Miercoles - Progra Avanzada Web\\Proyecto\\Codigo\\PAW2\\PAW2.Models\\PAW2.Models.csproj": {
+              "projectPath": "D:\\Universidad\\2025\\2do Cuatrimestre\\Miercoles - Progra Avanzada Web\\Proyecto\\Codigo\\PAW2\\PAW2.Models\\PAW2.Models.csproj"
+            },
+            "D:\\Universidad\\2025\\2do Cuatrimestre\\Miercoles - Progra Avanzada Web\\Proyecto\\Codigo\\PAW2\\PAW2.Services\\PAW2.Services.csproj": {
+              "projectPath": "D:\\Universidad\\2025\\2do Cuatrimestre\\Miercoles - Progra Avanzada Web\\Proyecto\\Codigo\\PAW2\\PAW2.Services\\PAW2.Services.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      },
+      "SdkAnalysisLevel": "9.0.100"
+    },
+    "frameworks": {
+      "net8.0": {
+        "targetAlias": "net8.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.AspNetCore.App": {
+            "privateAssets": "none"
+          },
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.102/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

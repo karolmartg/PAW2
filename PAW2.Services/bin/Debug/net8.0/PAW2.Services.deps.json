@@ -1,0 +1,53 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "PAW2.Services/1.0.0": {
+        "dependencies": {
+          "PAW2.Architecture": "1.0.0",
+          "PAW2.Models": "1.0.0"
+        },
+        "runtime": {
+          "PAW2.Services.dll": {}
+        }
+      },
+      "PAW2.Architecture/1.0.0": {
+        "runtime": {
+          "PAW2.Architecture.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "PAW2.Models/1.0.0": {
+        "runtime": {
+          "PAW2.Models.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PAW2.Services/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "PAW2.Architecture/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "PAW2.Models/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
