@@ -15,3 +15,4 @@ D:\Universidad\2025\2do Cuatrimestre\Miercoles - Progra Avanzada Web\Proyecto\Co
 D:\Universidad\2025\2do Cuatrimestre\Miercoles - Progra Avanzada Web\Proyecto\Codigo\PAW2\PAW2.Services\obj\Debug\net8.0\refint\PAW2.Services.dll
 D:\Universidad\2025\2do Cuatrimestre\Miercoles - Progra Avanzada Web\Proyecto\Codigo\PAW2\PAW2.Services\obj\Debug\net8.0\PAW2.Services.pdb
 D:\Universidad\2025\2do Cuatrimestre\Miercoles - Progra Avanzada Web\Proyecto\Codigo\PAW2\PAW2.Services\obj\Debug\net8.0\ref\PAW2.Services.dll
+D:\Universidad\2025\2do Cuatrimestre\Miercoles - Progra Avanzada Web\Proyecto\Codigo\PAW2\PAW2.Services\obj\Debug\net8.0\PAW2.Services.sourcelink.json

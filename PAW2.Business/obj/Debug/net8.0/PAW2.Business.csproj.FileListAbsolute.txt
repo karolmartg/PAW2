@@ -21,3 +21,4 @@ D:\Universidad\2025\2do Cuatrimestre\Miercoles - Progra Avanzada Web\Proyecto\Co
 D:\Universidad\2025\2do Cuatrimestre\Miercoles - Progra Avanzada Web\Proyecto\Codigo\PAW2\PAW2.Business\obj\Debug\net8.0\refint\PAW2.Business.dll
 D:\Universidad\2025\2do Cuatrimestre\Miercoles - Progra Avanzada Web\Proyecto\Codigo\PAW2\PAW2.Business\obj\Debug\net8.0\PAW2.Business.pdb
 D:\Universidad\2025\2do Cuatrimestre\Miercoles - Progra Avanzada Web\Proyecto\Codigo\PAW2\PAW2.Business\obj\Debug\net8.0\ref\PAW2.Business.dll
+D:\Universidad\2025\2do Cuatrimestre\Miercoles - Progra Avanzada Web\Proyecto\Codigo\PAW2\PAW2.Business\obj\Debug\net8.0\PAW2.Business.sourcelink.json

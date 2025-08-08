@@ -40,3 +40,4 @@ D:\Universidad\2025\2do Cuatrimestre\Miercoles - Progra Avanzada Web\Proyecto\Co
 D:\Universidad\2025\2do Cuatrimestre\Miercoles - Progra Avanzada Web\Proyecto\Codigo\PAW2\PAW2.MVC\obj\Debug\net8.0\PAW2.MVC.pdb
 D:\Universidad\2025\2do Cuatrimestre\Miercoles - Progra Avanzada Web\Proyecto\Codigo\PAW2\PAW2.MVC\obj\Debug\net8.0\PAW2.MVC.genruntimeconfig.cache
 D:\Universidad\2025\2do Cuatrimestre\Miercoles - Progra Avanzada Web\Proyecto\Codigo\PAW2\PAW2.MVC\obj\Debug\net8.0\ref\PAW2.MVC.dll
+D:\Universidad\2025\2do Cuatrimestre\Miercoles - Progra Avanzada Web\Proyecto\Codigo\PAW2\PAW2.MVC\obj\Debug\net8.0\PAW2.MVC.sourcelink.json
