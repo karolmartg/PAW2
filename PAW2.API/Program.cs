@@ -1,6 +1,7 @@
 using PAW2.Business;
 using PAW2.Repositories;
 using System.Text.Json.Serialization;
+using PAW2.Business.Validation;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -42,9 +43,17 @@ builder.Services.AddScoped<IRepositoryNotification, RepositoryNotification>();
 builder.Services.AddScoped<IBusinessSupplier, BusinessSupplier>();
 builder.Services.AddScoped<IRepositorySupplier, RepositorySupplier>();
 
+// Decorator
+builder.Services.AddScoped<ICatalogValidator, CatalogValidator>();
+builder.Services.Decorate<IBusinessCatalog, CatalogValidationDecorator>();
 
-// builder.Services.AddScoped<IRepositoryCatalogTask, RepositoryCatalogTask>();
+builder.Services.AddScoped<ICategoryValidator, CategoryValidator>();
+builder.Services.Decorate<IBusinessCategory, CategoryValidationDecorator>();
+
+builder.Services.AddScoped<IInventoryValidator, InventoryValidator>();
+builder.Services.Decorate<IBusinessInventory, InventoryValidationDecorator>();
 //***************************************************************************
+
 
 
 var app = builder.Build();

@@ -9,6 +9,7 @@
       "PAW2.Business/1.0.0": {
         "dependencies": {
           "PAW2.Core": "1.0.0",
+          "PAW2.Models": "1.0.0",
           "PAW2.Repositories": "1.0.0"
         },
         "runtime": {

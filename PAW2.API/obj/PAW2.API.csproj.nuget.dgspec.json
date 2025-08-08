@@ -55,6 +55,10 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
+            "Scrutor": {
+              "target": "Package",
+              "version": "[6.1.0, )"
+            },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
               "version": "[6.6.2, )"
@@ -180,6 +184,9 @@
             "projectReferences": {
               "D:\\Universidad\\2025\\2do Cuatrimestre\\Miercoles - Progra Avanzada Web\\Proyecto\\Codigo\\PAW2\\PAW2.Core\\PAW2.Core.csproj": {
                 "projectPath": "D:\\Universidad\\2025\\2do Cuatrimestre\\Miercoles - Progra Avanzada Web\\Proyecto\\Codigo\\PAW2\\PAW2.Core\\PAW2.Core.csproj"
+              },
+              "D:\\Universidad\\2025\\2do Cuatrimestre\\Miercoles - Progra Avanzada Web\\Proyecto\\Codigo\\PAW2\\PAW2.Models\\PAW2.Models.csproj": {
+                "projectPath": "D:\\Universidad\\2025\\2do Cuatrimestre\\Miercoles - Progra Avanzada Web\\Proyecto\\Codigo\\PAW2\\PAW2.Models\\PAW2.Models.csproj"
               },
               "D:\\Universidad\\2025\\2do Cuatrimestre\\Miercoles - Progra Avanzada Web\\Proyecto\\Codigo\\PAW2\\PAW2.Repository\\PAW2.Repositories.csproj": {
                 "projectPath": "D:\\Universidad\\2025\\2do Cuatrimestre\\Miercoles - Progra Avanzada Web\\Proyecto\\Codigo\\PAW2\\PAW2.Repository\\PAW2.Repositories.csproj"

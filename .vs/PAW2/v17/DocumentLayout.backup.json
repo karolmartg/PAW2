@@ -3,24 +3,16 @@
   "WorkspaceRootPath": "D:\\Universidad\\2025\\2do Cuatrimestre\\Miercoles - Progra Avanzada Web\\Proyecto\\Codigo\\PAW2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4DA2C4DB-1BEE-410A-B404-B045D215EEDD}|PAW2.Services\\PAW2.Services.csproj|d:\\universidad\\2025\\2do cuatrimestre\\miercoles - progra avanzada web\\proyecto\\codigo\\paw2\\paw2.services\\catalogservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4DA2C4DB-1BEE-410A-B404-B045D215EEDD}|PAW2.Services\\PAW2.Services.csproj|solutionrelative:paw2.services\\catalogservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CD2CF135-C8FA-4FC3-9DE1-F7D771E53C7A}|PAW2.API\\PAW2.API.csproj|d:\\universidad\\2025\\2do cuatrimestre\\miercoles - progra avanzada web\\proyecto\\codigo\\paw2\\paw2.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD2CF135-C8FA-4FC3-9DE1-F7D771E53C7A}|PAW2.API\\PAW2.API.csproj|solutionrelative:paw2.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CD2CF135-C8FA-4FC3-9DE1-F7D771E53C7A}|PAW2.API\\PAW2.API.csproj|d:\\universidad\\2025\\2do cuatrimestre\\miercoles - progra avanzada web\\proyecto\\codigo\\paw2\\paw2.api\\controllers\\catalogcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CD2CF135-C8FA-4FC3-9DE1-F7D771E53C7A}|PAW2.API\\PAW2.API.csproj|solutionrelative:paw2.api\\controllers\\catalogcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{70DFF464-63B0-4835-B39A-8C2A2974E0CD}|PAW2.Business\\PAW2.Business.csproj|d:\\universidad\\2025\\2do cuatrimestre\\miercoles - progra avanzada web\\proyecto\\codigo\\paw2\\paw2.business\\decorators\\catalogvalidationdecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70DFF464-63B0-4835-B39A-8C2A2974E0CD}|PAW2.Business\\PAW2.Business.csproj|solutionrelative:paw2.business\\decorators\\catalogvalidationdecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{04DAFF14-E311-4D32-AF70-ECB5B541E2DD}|PAW2.MVC\\PAW2.MVC.csproj|d:\\universidad\\2025\\2do cuatrimestre\\miercoles - progra avanzada web\\proyecto\\codigo\\paw2\\paw2.mvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{04DAFF14-E311-4D32-AF70-ECB5B541E2DD}|PAW2.MVC\\PAW2.MVC.csproj|solutionrelative:paw2.mvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FAF3B74B-0F5F-4D3A-918D-4C86B54FF264}|PAW2.Repository\\PAW2.Repositories.csproj|d:\\universidad\\2025\\2do cuatrimestre\\miercoles - progra avanzada web\\proyecto\\codigo\\paw2\\paw2.repository\\repositorycatalog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FAF3B74B-0F5F-4D3A-918D-4C86B54FF264}|PAW2.Repository\\PAW2.Repositories.csproj|solutionrelative:paw2.repository\\repositorycatalog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{70DFF464-63B0-4835-B39A-8C2A2974E0CD}|PAW2.Business\\PAW2.Business.csproj|d:\\universidad\\2025\\2do cuatrimestre\\miercoles - progra avanzada web\\proyecto\\codigo\\paw2\\paw2.business\\businesscatalog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{70DFF464-63B0-4835-B39A-8C2A2974E0CD}|PAW2.Business\\PAW2.Business.csproj|solutionrelative:paw2.business\\businesscatalog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{70DFF464-63B0-4835-B39A-8C2A2974E0CD}|PAW2.Business\\PAW2.Business.csproj|d:\\universidad\\2025\\2do cuatrimestre\\miercoles - progra avanzada web\\proyecto\\codigo\\paw2\\paw2.business\\validation\\catalogvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70DFF464-63B0-4835-B39A-8C2A2974E0CD}|PAW2.Business\\PAW2.Business.csproj|solutionrelative:paw2.business\\validation\\catalogvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,71 +22,48 @@
       "DocumentGroups": [
         {
           "DockedWidth": 446,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "D:\\Universidad\\2025\\2do Cuatrimestre\\Miercoles - Progra Avanzada Web\\Proyecto\\Codigo\\PAW2\\PAW2.MVC\\appsettings.json",
-              "RelativeDocumentMoniker": "PAW2.MVC\\appsettings.json",
-              "ToolTip": "D:\\Universidad\\2025\\2do Cuatrimestre\\Miercoles - Progra Avanzada Web\\Proyecto\\Codigo\\PAW2\\PAW2.MVC\\appsettings.json",
-              "RelativeToolTip": "PAW2.MVC\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAmAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-08-07T19:40:49.765Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "CatalogService.cs",
-              "DocumentMoniker": "D:\\Universidad\\2025\\2do Cuatrimestre\\Miercoles - Progra Avanzada Web\\Proyecto\\Codigo\\PAW2\\PAW2.Services\\CatalogService.cs",
-              "RelativeDocumentMoniker": "PAW2.Services\\CatalogService.cs",
-              "ToolTip": "D:\\Universidad\\2025\\2do Cuatrimestre\\Miercoles - Progra Avanzada Web\\Proyecto\\Codigo\\PAW2\\PAW2.Services\\CatalogService.cs",
-              "RelativeToolTip": "PAW2.Services\\CatalogService.cs",
-              "ViewState": "AgIAACIAAAAAAAAAAAAwwDwAAAAAAAAAAAAAAA==",
+              "Title": "CatalogValidator.cs",
+              "DocumentMoniker": "D:\\Universidad\\2025\\2do Cuatrimestre\\Miercoles - Progra Avanzada Web\\Proyecto\\Codigo\\PAW2\\PAW2.Business\\Validation\\CatalogValidator.cs",
+              "RelativeDocumentMoniker": "PAW2.Business\\Validation\\CatalogValidator.cs",
+              "ToolTip": "D:\\Universidad\\2025\\2do Cuatrimestre\\Miercoles - Progra Avanzada Web\\Proyecto\\Codigo\\PAW2\\PAW2.Business\\Validation\\CatalogValidator.cs",
+              "RelativeToolTip": "PAW2.Business\\Validation\\CatalogValidator.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAIwCsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-30T02:23:44.588Z",
+              "WhenOpened": "2025-08-08T03:24:22.379Z",
+              "IsPinned": true,
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "CatalogController.cs",
-              "DocumentMoniker": "D:\\Universidad\\2025\\2do Cuatrimestre\\Miercoles - Progra Avanzada Web\\Proyecto\\Codigo\\PAW2\\PAW2.API\\Controllers\\CatalogController.cs",
-              "RelativeDocumentMoniker": "PAW2.API\\Controllers\\CatalogController.cs",
-              "ToolTip": "D:\\Universidad\\2025\\2do Cuatrimestre\\Miercoles - Progra Avanzada Web\\Proyecto\\Codigo\\PAW2\\PAW2.API\\Controllers\\CatalogController.cs",
-              "RelativeToolTip": "PAW2.API\\Controllers\\CatalogController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAsAAAAwAAAAAAAAAA==",
+              "Title": "CatalogValidationDecorator.cs",
+              "DocumentMoniker": "D:\\Universidad\\2025\\2do Cuatrimestre\\Miercoles - Progra Avanzada Web\\Proyecto\\Codigo\\PAW2\\PAW2.Business\\Decorators\\CatalogValidationDecorator.cs",
+              "RelativeDocumentMoniker": "PAW2.Business\\Decorators\\CatalogValidationDecorator.cs",
+              "ToolTip": "D:\\Universidad\\2025\\2do Cuatrimestre\\Miercoles - Progra Avanzada Web\\Proyecto\\Codigo\\PAW2\\PAW2.Business\\Decorators\\CatalogValidationDecorator.cs",
+              "RelativeToolTip": "PAW2.Business\\Decorators\\CatalogValidationDecorator.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAmwDIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-07T19:21:55.568Z",
+              "WhenOpened": "2025-08-08T03:34:33.28Z",
+              "IsPinned": true,
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "BusinessCatalog.cs",
-              "DocumentMoniker": "D:\\Universidad\\2025\\2do Cuatrimestre\\Miercoles - Progra Avanzada Web\\Proyecto\\Codigo\\PAW2\\PAW2.Business\\BusinessCatalog.cs",
-              "RelativeDocumentMoniker": "PAW2.Business\\BusinessCatalog.cs",
-              "ToolTip": "D:\\Universidad\\2025\\2do Cuatrimestre\\Miercoles - Progra Avanzada Web\\Proyecto\\Codigo\\PAW2\\PAW2.Business\\BusinessCatalog.cs",
-              "RelativeToolTip": "PAW2.Business\\BusinessCatalog.cs",
-              "ViewState": "AgIAAB8AAAAAAAAAAADwvx8AAAA1AAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Universidad\\2025\\2do Cuatrimestre\\Miercoles - Progra Avanzada Web\\Proyecto\\Codigo\\PAW2\\PAW2.API\\Program.cs",
+              "RelativeDocumentMoniker": "PAW2.API\\Program.cs",
+              "ToolTip": "D:\\Universidad\\2025\\2do Cuatrimestre\\Miercoles - Progra Avanzada Web\\Proyecto\\Codigo\\PAW2\\PAW2.API\\Program.cs",
+              "RelativeToolTip": "PAW2.API\\Program.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAAwC4AAABCAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-07T19:35:05.284Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "RepositoryCatalog.cs",
-              "DocumentMoniker": "D:\\Universidad\\2025\\2do Cuatrimestre\\Miercoles - Progra Avanzada Web\\Proyecto\\Codigo\\PAW2\\PAW2.Repository\\RepositoryCatalog.cs",
-              "RelativeDocumentMoniker": "PAW2.Repository\\RepositoryCatalog.cs",
-              "ToolTip": "D:\\Universidad\\2025\\2do Cuatrimestre\\Miercoles - Progra Avanzada Web\\Proyecto\\Codigo\\PAW2\\PAW2.Repository\\RepositoryCatalog.cs",
-              "RelativeToolTip": "PAW2.Repository\\RepositoryCatalog.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAATAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-07T19:36:33.601Z",
+              "WhenOpened": "2025-08-08T03:41:20.034Z",
+              "IsPinned": true,
               "EditorCaption": ""
             }
           ]

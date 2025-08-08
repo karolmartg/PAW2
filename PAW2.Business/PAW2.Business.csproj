@@ -8,6 +8,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\PAW2.Core\PAW2.Core.csproj" />
+    <ProjectReference Include="..\PAW2.Models\PAW2.Models.csproj" />
     <ProjectReference Include="..\PAW2.Repository\PAW2.Repositories.csproj" />
   </ItemGroup>
 
